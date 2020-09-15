@@ -1,5 +1,4 @@
 def main():
-    #added comment
     for i in range(101):
         if i % 15 == 0:
             print("FizzBuzz")
